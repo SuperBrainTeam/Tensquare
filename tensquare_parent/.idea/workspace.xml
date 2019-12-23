@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a05822-933e-497a-89ad-f8826f9f3f0b" name="Default Changelist" comment="" />
+    <list default="true" id="67a05822-933e-497a-89ad-f8826f9f3f0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tensquare_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensquare_parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +52,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="202" />
-    <option name="width" value="1340" />
-    <option name="height" value="668" />
   </component>
   <component name="ProjectId" id="1VNisxjWk3Pgy1h2daek1RJgb03" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -211,7 +215,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547689512662</updated>
       <workItem from="1547689517634" duration="8620000" />
-      <workItem from="1577100188791" duration="45000" />
+      <workItem from="1577100188791" duration="307000" />
     </task>
     <servers />
   </component>
